@@ -5,13 +5,13 @@
 </script>
 
 <template>
-  <div class="home">
-    Home page!
+  <div class="nav1">
+    Navigation here!
   </div>
 </template>
 
 <style>
-  .home {
+  .nav1 {
     color: blue;
   }
 </style>

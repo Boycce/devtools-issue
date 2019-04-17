@@ -1,5 +1,5 @@
-let home = require('./home.vue').default
+let header = require('./header.vue').default
 let app = new Vue({ 
   el: '#app', 
-  render: (renderElement) => renderElement(home)
+  render: (renderElement) => renderElement(header)
 })
