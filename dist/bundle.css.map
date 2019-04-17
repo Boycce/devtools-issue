@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///home.vue"],"names":[],"mappings":";AAaA;EACA;AACA","file":"bundle.css","sourcesContent":["<script>\n  export default {\n    data: () => ({ greeting: ww }) // ww is undefined\n  }\n</script>\n\n<template>\n  <div class=\"home\">\n    Home page!\n  </div>\n</template>\n\n<style>\n  .home {\n    color: blue;\n  }\n</style>\n"],"sourceRoot":""}
